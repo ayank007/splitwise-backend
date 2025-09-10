@@ -1,0 +1,16 @@
+dependencies:
+    spring web
+    spring data JPA
+    Lombok
+    PostgreSQL Driver
+    Spring Configation Processor
+    Spring Dev Tools: helps developers fetch application.properties
+
+model
+    configuration
+    controller
+    dto
+    exception
+    model
+    repo
+    service
